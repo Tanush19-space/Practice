@@ -226,3 +226,14 @@ window.addEventListener('load', () => {
     if (active.id === 'sos') drawSosMap();
   });
 });
+
+
+
+
+
+
+
+
+
+
+
